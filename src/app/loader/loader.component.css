@@ -1,0 +1,12 @@
+.wrapper {
+  border-top: 2px solid grey;
+  margin: 20px 0;
+}
+
+.html-container {
+  width: 100%;
+  min-height: 200px;
+  max-height: 400px;
+  border: 1px solid black;
+  overflow-y: auto;
+}
